@@ -1,0 +1,8 @@
+C:\Users\kushal.seth\source\repos\Compress\Compress\bin\Debug\netcoreapp3.0\Compress.deps.json
+C:\Users\kushal.seth\source\repos\Compress\Compress\bin\Debug\netcoreapp3.0\Compress.dll
+C:\Users\kushal.seth\source\repos\Compress\Compress\bin\Debug\netcoreapp3.0\Compress.pdb
+C:\Users\kushal.seth\source\repos\Compress\Compress\obj\Debug\netcoreapp3.0\Compress.csprojAssemblyReference.cache
+C:\Users\kushal.seth\source\repos\Compress\Compress\obj\Debug\netcoreapp3.0\Compress.AssemblyInfoInputs.cache
+C:\Users\kushal.seth\source\repos\Compress\Compress\obj\Debug\netcoreapp3.0\Compress.AssemblyInfo.cs
+C:\Users\kushal.seth\source\repos\Compress\Compress\obj\Debug\netcoreapp3.0\Compress.dll
+C:\Users\kushal.seth\source\repos\Compress\Compress\obj\Debug\netcoreapp3.0\Compress.pdb

@@ -1,0 +1,5 @@
+C:\Users\kushal.seth\source\repos\Compress\DBLayer\bin\Debug\netcoreapp3.0\DBLayer.deps.json
+C:\Users\kushal.seth\source\repos\Compress\DBLayer\bin\Debug\netcoreapp3.0\DBLayer.dll
+C:\Users\kushal.seth\source\repos\Compress\DBLayer\obj\Debug\netcoreapp3.0\DBLayer.csprojAssemblyReference.cache
+C:\Users\kushal.seth\source\repos\Compress\DBLayer\obj\Debug\netcoreapp3.0\DBLayer.AssemblyInfoInputs.cache
+C:\Users\kushal.seth\source\repos\Compress\DBLayer\obj\Debug\netcoreapp3.0\DBLayer.AssemblyInfo.cs
