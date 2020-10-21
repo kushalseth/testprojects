@@ -5,6 +5,7 @@ Complete project from Creatng API, writing test cases, connecting to DB and some
 - **Compress Folder:** It has all the details of ABTest, .Net Core API and DB context.
 - **React folder:** It has integration of API with a React component.
 - **TestQuery.sql:** It has all the queries asked.
+- **JavaScript Question:** Includes one Javascript problem
 
 # Problem Statement
 
