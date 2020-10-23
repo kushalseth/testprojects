@@ -1,5 +1,7 @@
 # Details of repository 
 
+This is a  test project with API integration, DB creation, .net core and react for the below Problem statement. This has been done as a part of some technical discussion.   
+
 Complete project from Creatng API, writing test cases, connecting to DB and some DB Queries.
 
 - **Compress Folder:** It has all the details of ABTest, .Net Core API and DB context.
