@@ -1,4 +1,5 @@
 print sum using: sum(2)(3)(4)(5); and make it dynamic..
+The question is based on Currying. https://stackoverflow.com/questions/5832891/variadic-curried-sum-function
 
 
 function sum(a){
@@ -35,4 +36,4 @@ var sum4 = function(n) {
 
 };
 
-The question is based on Currying. https://stackoverflow.com/questions/5832891/variadic-curried-sum-function
+
